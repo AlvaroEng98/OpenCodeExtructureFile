@@ -21,14 +21,6 @@ Define el esquema base para validación:
 
 ```json
 "$schema": "https://json-schema.org/draft/2020-12/schema",
-"ref": "Config",
-"type": "object",
-"properties": {
-  "$schema": {
-    "description": "JSON schema reference for configuration validation",
-    "type": "string"
-  }
-}
 ```
 
 ### Nivel de logs
